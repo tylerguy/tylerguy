@@ -44,7 +44,7 @@
 - [Powerup Demo Unreal Engine](https://www.youtube.com/watch?v=5Qd4DFrrKEc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCa-jxtlaLU6Jb21kDy2nhxw)
 
 ---
 
@@ -54,7 +54,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://tylerdev.me)
 
 ---
 
