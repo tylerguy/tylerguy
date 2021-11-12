@@ -16,11 +16,6 @@
 [<img align="left" alt="tylerdenman18 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tyler Denman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-### Spotify Playing:
-
-[<img src="https://novatorem-three-xi.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/rnv1ju632qobgvj2csvg1k6fp)
-
-
 <br />
 
 ### Languages and Tools:
