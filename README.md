@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://tylerguy.vercel.app/api?username=tylerguy&show_icons=true&hide_border=true" />
+  <img align="left" alt="tylerguy's GitHub Stats" src="https://tylerguy.vercel.app/api?username=tylerguy&show_icons=true&hide_border=true" />
 
 </details>
 
