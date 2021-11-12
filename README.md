@@ -65,9 +65,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. 🎉 Merged PR [#42](https://github.com/tylerguy/Discord-Music-Bot/pull/42) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+2. ❗️ Closed issue [#36](https://github.com/tylerguy/Discord-Music-Bot/issues/36) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+3. 🗣 Commented on [#36](https://github.com/tylerguy/Discord-Music-Bot/issues/36) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
@@ -77,7 +77,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://tylerguy.vercel.app/api?username=tylerguy&show_icons=true&hide_border=true" />
+  <img align="left" alt="tylerguy's GitHub Stats" src="https://tylerguy.vercel.app/api?username=tylerguy&show_icons=true&hide_border=true" />
 
 </details>
 
