@@ -18,7 +18,7 @@
 
 ### Spotify Playing:
 
-[![Spotify](https://novatorem-three-xi.vercel.app/api/spotify)](https://open.spotify.com/user/rnv1ju632qobgvj2csvg1k6fp)
+[<img src="https://novatorem-three-xi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/rnv1ju632qobgvj2csvg1k6fp)
 
 
 <br />
