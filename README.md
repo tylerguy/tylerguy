@@ -37,11 +37,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
-- [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
-- [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
-- [API Crash Course - Integrate, Build, &amp; Sell an API $$$ &lpar;EASY!&rpar;](https://www.youtube.com/watch?v=FMJwaA2WMjc)
-- [#TeamSeas - Let&#39;s Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
+- [Peep&#39;s Adventures](https://www.youtube.com/watch?v=RLAXrXgZ59k)
+- [The Investigation Tales V2](https://www.youtube.com/watch?v=S04V-1MIgac)
+- [Haunted Mansion](https://www.youtube.com/watch?v=PHbdETu_a_0)
+- [Peeps Adventures Unreal Engine Demo](https://www.youtube.com/watch?v=wqmdWa10sng)
+- [Powerup Demo Unreal Engine](https://www.youtube.com/watch?v=5Qd4DFrrKEc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
