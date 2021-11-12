@@ -30,6 +30,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+
+[![Spotify](https://novatorem-three-xi.vercel.app/api/spotify)](https://open.spotify.com/user/rnv1ju632qobgvj2csvg1k6fp)
+
 <br />
 
 ---
