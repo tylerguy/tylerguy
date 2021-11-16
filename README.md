@@ -61,11 +61,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/tylerguy/Discord-Music-Bot/pull/42) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
-2. ❗️ Closed issue [#36](https://github.com/tylerguy/Discord-Music-Bot/issues/36) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
-3. 🗣 Commented on [#36](https://github.com/tylerguy/Discord-Music-Bot/issues/36) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. ❌ Closed PR [#43](https://github.com/tylerguy/Discord-Music-Bot/pull/43) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+2. 🎉 Merged PR [#45](https://github.com/tylerguy/Discord-Music-Bot/pull/45) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+3. 💪 Opened PR [#45](https://github.com/tylerguy/Discord-Music-Bot/pull/45) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+4. 🎉 Merged PR [#44](https://github.com/tylerguy/Discord-Music-Bot/pull/44) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+5. 🎉 Merged PR [#42](https://github.com/tylerguy/Discord-Music-Bot/pull/42) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
 <!--END_SECTION:activity-->
 
 </details>
