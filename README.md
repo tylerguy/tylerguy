@@ -61,11 +61,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-2. ❌ Reopened PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-3. ❌ Closed PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+1. 🎉 Merged PR [#48](https://github.com/tylerguy/Discord-Music-Bot/pull/48) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+2. 💪 Opened PR [#48](https://github.com/tylerguy/Discord-Music-Bot/pull/48) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+3. 🎉 Merged PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
 4. ❌ Reopened PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-5. ❗️ Closed issue [#39](https://github.com/tylerguy/Discord-Music-Bot/issues/39) in [tylerguy/Discord-Music-Bot](https://github.com/tylerguy/Discord-Music-Bot)
+5. ❌ Closed PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
 <!--END_SECTION:activity-->
 
 </details>
