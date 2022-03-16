@@ -53,10 +53,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/TylerDev-me/Discord-Music-Bot/pull/58) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
-2. 🎉 Merged PR [#55](https://github.com/TylerDev-me/Discord-Music-Bot/pull/55) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
-3. 🎉 Merged PR [#56](https://github.com/TylerDev-me/Discord-Music-Bot/pull/56) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
-4. ❗️ Closed issue [#50](https://github.com/TylerDev-me/Discord-Music-Bot/issues/50) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
+1. 🎉 Merged PR [#60](https://github.com/TylerDev-me/Discord-Music-Bot/pull/60) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
+2. ❌ Reopened PR [#60](https://github.com/TylerDev-me/Discord-Music-Bot/pull/60) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
+3. 🗣 Commented on [#60](https://github.com/TylerDev-me/Discord-Music-Bot/issues/60) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
+4. ❌ Closed PR [#60](https://github.com/TylerDev-me/Discord-Music-Bot/pull/60) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
 5. 🎉 Merged PR [#49](https://github.com/TylerDev-me/Discord-Music-Bot/pull/49) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
 <!--END_SECTION:activity-->
 
