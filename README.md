@@ -53,7 +53,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/TylerDev-me/Discord-Music-Bot/pull/60) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
+1. 🎉 Merged PR [#61](https://github.com/TylerDev-me/Discord-Music-Bot/pull/61) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
 2. ❌ Reopened PR [#60](https://github.com/TylerDev-me/Discord-Music-Bot/pull/60) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
 3. 🗣 Commented on [#60](https://github.com/TylerDev-me/Discord-Music-Bot/issues/60) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
 4. ❌ Closed PR [#60](https://github.com/TylerDev-me/Discord-Music-Bot/pull/60) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
