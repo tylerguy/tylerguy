@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/TylerDev-me/Discord-Music-Bot/pull/63) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
-2. ❗️ Closed issue [#40](https://github.com/TylerDev-me/Discord-Music-Bot/issues/40) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
-3. 🎉 Merged PR [#62](https://github.com/TylerDev-me/Discord-Music-Bot/pull/62) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
-4. 🎉 Merged PR [#61](https://github.com/TylerDev-me/Discord-Music-Bot/pull/61) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
-5. 🎉 Merged PR [#49](https://github.com/TylerDev-me/Discord-Music-Bot/pull/49) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
+1. 🎉 Merged PR [#3](https://github.com/tylerguy/Hero-Adventure/pull/3) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+2. ❌ Closed PR [#2](https://github.com/tylerguy/Hero-Adventure/pull/2) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+3. 💪 Opened PR [#2](https://github.com/tylerguy/Hero-Adventure/pull/2) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+4. 🎉 Merged PR [#1](https://github.com/tylerguy/Hero-Adventure/pull/1) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+5. 💪 Opened PR [#1](https://github.com/tylerguy/Hero-Adventure/pull/1) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
 <!--END_SECTION:activity-->
 
 </details>
