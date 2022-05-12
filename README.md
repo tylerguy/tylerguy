@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning Frontend Design using tools such as [Ghost](https://github.com/TryGhost/Ghost)
 - 👯 I’m looking to develop my knowledge of Javascript and HTML/CSS.
-- 🥅 2021 Goals: Become more integrated into the open-source ecosystem
 
 ### Connect with me:
 
