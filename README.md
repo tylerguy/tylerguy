@@ -52,11 +52,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/tylerguy/Hero-Adventure/pull/3) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
-2. ❌ Closed PR [#2](https://github.com/tylerguy/Hero-Adventure/pull/2) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
-3. 💪 Opened PR [#2](https://github.com/tylerguy/Hero-Adventure/pull/2) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
-4. 🎉 Merged PR [#1](https://github.com/tylerguy/Hero-Adventure/pull/1) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
-5. 💪 Opened PR [#1](https://github.com/tylerguy/Hero-Adventure/pull/1) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+1. ❗️ Opened issue [#1](https://github.com/tylerguy/qotd-bot/issues/1) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+2. 🎉 Merged PR [#3](https://github.com/tylerguy/Hero-Adventure/pull/3) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+3. ❌ Closed PR [#2](https://github.com/tylerguy/Hero-Adventure/pull/2) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+4. 💪 Opened PR [#2](https://github.com/tylerguy/Hero-Adventure/pull/2) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+5. 🎉 Merged PR [#1](https://github.com/tylerguy/Hero-Adventure/pull/1) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
 <!--END_SECTION:activity-->
 
 </details>
