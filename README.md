@@ -52,11 +52,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tylerguy/qotd-bot/issues/1) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-2. ❗️ Closed issue [#1](https://github.com/tylerguy/qotd-bot/issues/1) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-3. ❗️ Opened issue [#1](https://github.com/tylerguy/qotd-bot/issues/1) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-4. 🎉 Merged PR [#3](https://github.com/tylerguy/Hero-Adventure/pull/3) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
-5. ❌ Closed PR [#2](https://github.com/tylerguy/Hero-Adventure/pull/2) in [tylerguy/Hero-Adventure](https://github.com/tylerguy/Hero-Adventure)
+1. 🎉 Merged PR [#2](https://github.com/tylerguy/qotd-bot/pull/2) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+2. 🎉 Merged PR [#8](https://github.com/tylerguy/qotd-bot/pull/8) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+3. 🎉 Merged PR [#7](https://github.com/tylerguy/qotd-bot/pull/7) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+4. 🎉 Merged PR [#6](https://github.com/tylerguy/qotd-bot/pull/6) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+5. 🎉 Merged PR [#5](https://github.com/tylerguy/qotd-bot/pull/5) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
 <!--END_SECTION:activity-->
 
 </details>
