@@ -52,11 +52,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/tylerguy/qotd-bot/pull/10) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-2. 🎉 Merged PR [#2](https://github.com/tylerguy/qotd-bot/pull/2) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-3. 🎉 Merged PR [#8](https://github.com/tylerguy/qotd-bot/pull/8) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-4. 🎉 Merged PR [#7](https://github.com/tylerguy/qotd-bot/pull/7) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-5. 🎉 Merged PR [#6](https://github.com/tylerguy/qotd-bot/pull/6) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+1. 🎉 Merged PR [#11](https://github.com/tylerguy/qotd-bot/pull/11) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+2. 💪 Opened PR [#10](https://github.com/tylerguy/qotd-bot/pull/10) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+3. 🎉 Merged PR [#2](https://github.com/tylerguy/qotd-bot/pull/2) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+4. 🎉 Merged PR [#8](https://github.com/tylerguy/qotd-bot/pull/8) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+5. 🎉 Merged PR [#7](https://github.com/tylerguy/qotd-bot/pull/7) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
 <!--END_SECTION:activity-->
 
 </details>
