@@ -52,11 +52,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tylerguy/easy-countdown/pull/1) in [tylerguy/easy-countdown](https://github.com/tylerguy/easy-countdown)
-2. 💪 Opened PR [#1](https://github.com/tylerguy/easy-countdown/pull/1) in [tylerguy/easy-countdown](https://github.com/tylerguy/easy-countdown)
-3. 🎉 Merged PR [#10](https://github.com/tylerguy/qotd-bot/pull/10) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-4. ❗️ Closed issue [#1](https://github.com/tylerguy/qotd-bot/issues/1) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-5. ❗️ Closed issue [#1](https://github.com/tylerguy/qotd-bot/issues/1) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+1. 🎉 Merged PR [#66](https://github.com/TylerDev-me/Discord-Music-Bot/pull/66) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
+2. 🎉 Merged PR [#67](https://github.com/TylerDev-me/Discord-Music-Bot/pull/67) in [TylerDev-me/Discord-Music-Bot](https://github.com/TylerDev-me/Discord-Music-Bot)
+3. 🎉 Merged PR [#1](https://github.com/tylerguy/easy-countdown/pull/1) in [tylerguy/easy-countdown](https://github.com/tylerguy/easy-countdown)
+4. 💪 Opened PR [#1](https://github.com/tylerguy/easy-countdown/pull/1) in [tylerguy/easy-countdown](https://github.com/tylerguy/easy-countdown)
+5. 🎉 Merged PR [#10](https://github.com/tylerguy/qotd-bot/pull/10) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
 <!--END_SECTION:activity-->
 
 </details>
