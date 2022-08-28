@@ -35,11 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Peep&#39;s Adventures](https://www.youtube.com/watch?v=RLAXrXgZ59k)
-- [The Investigation Tales V2](https://www.youtube.com/watch?v=S04V-1MIgac)
-- [Haunted Mansion](https://www.youtube.com/watch?v=PHbdETu_a_0)
-- [Peeps Adventures Unreal Engine Demo](https://www.youtube.com/watch?v=wqmdWa10sng)
-- [Powerup Demo Unreal Engine](https://www.youtube.com/watch?v=5Qd4DFrrKEc)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCa-jxtlaLU6Jb21kDy2nhxw)
