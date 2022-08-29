@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Frontend Design using tools such as [Ghost](https://github.com/TryGhost/Ghost)
 - 👯 I’m looking to develop my knowledge of Javascript and HTML/CSS.
-- 🤖 I make random discord bots, of which [Qotd Bot](https://github.com/tylerguy/qotd-bot) and [Discord Music Bot(Please don't use this, probably doesn't work)](https://github.com/TylerDev-me/Discord-Music-Bot) are good examples.
+- 🤖 I make random discord bots, of which [Qotd Bot](https://github.com/tylerguy/qotd-bot) and [Discord Music Bot](Please don't use this, probably doesn't work)(https://github.com/TylerDev-me/Discord-Music-Bot) are good examples.
 
 ### Connect with me:
 
