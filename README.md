@@ -33,18 +33,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCa-jxtlaLU6Jb21kDy2nhxw)
-
----
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
