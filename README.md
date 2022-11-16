@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/tylerguy/Countdown/issues/1) in [tylerguy/Countdown](https://github.com/tylerguy/Countdown)
-2. ❗️ Opened issue [#1](https://github.com/tylerguy/Countdown/issues/1) in [tylerguy/Countdown](https://github.com/tylerguy/Countdown)
-3. 🎉 Merged PR [#119](https://github.com/TrinketBot/Trinket/pull/119) in [TrinketBot/Trinket](https://github.com/TrinketBot/Trinket)
-4. 🎉 Merged PR [#18](https://github.com/tylerguy/qotd-bot/pull/18) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
-5. 🎉 Merged PR [#17](https://github.com/tylerguy/qotd-bot/pull/17) in [tylerguy/qotd-bot](https://github.com/tylerguy/qotd-bot)
+1. 🎉 Merged PR [#131](https://github.com/TrinketBot/Trinket/pull/131) in [TrinketBot/Trinket](https://github.com/TrinketBot/Trinket)
+2. 🎉 Merged PR [#132](https://github.com/TrinketBot/Trinket/pull/132) in [TrinketBot/Trinket](https://github.com/TrinketBot/Trinket)
+3. 🎉 Merged PR [#129](https://github.com/TrinketBot/Trinket/pull/129) in [TrinketBot/Trinket](https://github.com/TrinketBot/Trinket)
+4. 🎉 Merged PR [#130](https://github.com/TrinketBot/Trinket/pull/130) in [TrinketBot/Trinket](https://github.com/TrinketBot/Trinket)
+5. ❗️ Opened issue [#1](https://github.com/tylerguy/Countdown/issues/1) in [tylerguy/Countdown](https://github.com/tylerguy/Countdown)
 <!--END_SECTION:activity-->
 
 </details>
