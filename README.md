@@ -36,8 +36,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/tylerguy/Countdown/issues/1) in [tylerguy/Countdown](https://github.com/tylerguy/Countdown)
-2. 🎉 Merged PR [#132](https://github.com/TrinketBot/Trinket/pull/132) in [TrinketBot/Trinket](https://github.com/TrinketBot/Trinket)
+1. 🎉 Merged PR [#145](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/145) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
+2. 💪 Opened PR [#145](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/145) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
 3. 🎉 Merged PR [#129](https://github.com/TrinketBot/Trinket/pull/129) in [TrinketBot/Trinket](https://github.com/TrinketBot/Trinket)
 4. 🎉 Merged PR [#130](https://github.com/TrinketBot/Trinket/pull/130) in [TrinketBot/Trinket](https://github.com/TrinketBot/Trinket)
 5. ❗️ Opened issue [#1](https://github.com/tylerguy/Countdown/issues/1) in [tylerguy/Countdown](https://github.com/tylerguy/Countdown)
