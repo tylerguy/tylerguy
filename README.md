@@ -36,11 +36,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#480](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/480) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
-2. 💪 Opened PR [#480](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/480) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
-3. 💪 Opened PR [#454](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/454) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
-4. 💪 Opened PR [#427](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/427) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
-5. 🎉 Merged PR [#1](https://github.com/tylerguy/Prototype-3/pull/1) in [tylerguy/Prototype-3](https://github.com/tylerguy/Prototype-3)
+1. 💪 Opened PR [#483](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/483) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
+2. 🎉 Merged PR [#480](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/480) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
+3. 💪 Opened PR [#480](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/480) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
+4. 💪 Opened PR [#454](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/454) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
+5. 💪 Opened PR [#427](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/427) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
 <!--END_SECTION:activity-->
 
 </details>
