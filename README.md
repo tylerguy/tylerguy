@@ -36,11 +36,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/tylerguy/Chicken-Attack/pull/2) in [tylerguy/Chicken-Attack](https://github.com/tylerguy/Chicken-Attack)
-2. 💪 Opened PR [#2](https://github.com/tylerguy/Chicken-Attack/pull/2) in [tylerguy/Chicken-Attack](https://github.com/tylerguy/Chicken-Attack)
-3. 💪 Opened PR [#557](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/557) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
-4. 🎉 Merged PR [#556](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/556) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
-5. 💪 Opened PR [#556](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/556) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
+1. ❗️ Opened issue [#1](https://github.com/tylerguy/Chat-Bubbles/issues/1) in [tylerguy/Chat-Bubbles](https://github.com/tylerguy/Chat-Bubbles)
+2. 🎉 Merged PR [#2](https://github.com/tylerguy/Chicken-Attack/pull/2) in [tylerguy/Chicken-Attack](https://github.com/tylerguy/Chicken-Attack)
+3. 💪 Opened PR [#2](https://github.com/tylerguy/Chicken-Attack/pull/2) in [tylerguy/Chicken-Attack](https://github.com/tylerguy/Chicken-Attack)
+4. 💪 Opened PR [#557](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/557) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
+5. 🎉 Merged PR [#556](https://github.com/Thunderblossom-Game-Studio/ProjectB/pull/556) in [Thunderblossom-Game-Studio/ProjectB](https://github.com/Thunderblossom-Game-Studio/ProjectB)
 <!--END_SECTION:activity-->
 
 </details>
