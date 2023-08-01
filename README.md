@@ -1,6 +1,5 @@
 ### Hi there, I'm [Tyler][website] 👋 
 
-[![Website](https://img.shields.io/website?label=TylerDev.me&style=for-the-badge&url=https%3A%2F%2Ftylerdev.me)](https://tylerdev.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tylerguy123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftylerguy&screen_name=tylerguy123)
 
 ## I'm a Game Design Student, Graphic Designer and Frontend Designer
