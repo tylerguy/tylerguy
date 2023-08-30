@@ -4,7 +4,7 @@
 
 ## Former Game Design Student, Graphic Designer and Frontend Designer
 
-- 👯 I’m looking to develop my knowledge of Javascript and HTML/CSS.
+- Currently learning React/Vite + Express, generally learning as I go making whatever I can
 
 ### Connect with me:
 
