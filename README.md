@@ -1,11 +1,10 @@
-### Hi there, I'm [Tyler][website] 👋 
+### Hi there, I'm Tyler 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tylerguy123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftylerguy&screen_name=tylerguy123)
 
 ## I'm a Game Design Student, Graphic Designer and Frontend Designer
 
 - 👯 I’m looking to develop my knowledge of Javascript and HTML/CSS.
-- 🤖 I make random discord bots, of which [Qotd Bot](https://github.com/tylerguy/qotd-bot) and [Discord Music Bot](https://github.com/TylerDev-me/Discord-Music-Bot) **(Please don't use this, probably doesn't work)** are good examples.
 
 ### Connect with me:
 
