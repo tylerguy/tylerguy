@@ -50,7 +50,7 @@
   
 </details>
 
-[website]: https://tylerdev.me
+[website]: https://tylerguy.github.io/Tyler.dev/
 [twitter]: https://twitter.com/tylerdenman17
 [youtube]: https://www.youtube.com/channel/UCa-jxtlaLU6Jb21kDy2nhxw
 [linkedin]: https://linkedin.com/in/tyler-denman-23b412198/
