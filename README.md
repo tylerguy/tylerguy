@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Tyler's Creative Showcase | YouTube" width="22px" style="color:white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="tylerdenman18 | Twitter" width="22px" style="color:white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Tyler Denman | LinkedIn" width="22px" style="color:white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tyler's Creative Showcase | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/#000000/#ffffff" />][youtube]
+[<img align="left" alt="tylerdenman18 | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/#000000/#ffffff" />][twitter]
+[<img align="left" alt="Tyler Denman | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#000000/#ffffff" />][linkedin]
 
 <br />
 
