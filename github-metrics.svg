@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.29m added, 652k removed
+                                    3.23m added, 686k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.55k views in last two weeks
+                                    1.57k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 119mb of code in 16627 edited files across 762 commits</small>
+                <small>estimation from 118mb of code in 16576 edited files across 745 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.79353353243481" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="104.79353353243481" y="0" width="6.096677913885255" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="110.89021144632005" y="0" width="2.675332837316405" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="113.56554428363646" y="0" width="0.765047062558572" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="114.33059134619504" y="0" width="0.4299137574301229" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="114.76050510362515" y="0" width="0.36696916289154247" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="115.1274742665167" y="0" width="0.1340727736956341" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="115.26154704021232" y="0" width="344.73845295978765" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.25632097769603" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="105.25632097769603" y="0" width="6.123601960639287" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="111.37992293833533" y="0" width="2.6871475973237287" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="114.06707053565906" y="0" width="0.7684256505654026" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="114.83549618622446" y="0" width="0.43181233535546937" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="115.26730852157992" y="0" width="0.368589765954151" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="115.63589828753408" y="0" width="0.13466486363025287" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="115.77056315116432" y="0" width="344.2294368488357" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2581,7 +2581,7 @@ geneate jsconfig</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="121.93333333333332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="122.45 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2603,7 +2603,7 @@ geneate jsconfig</div>
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 436 times</div>
+                                <div class="text">Repositories have been deployed 437 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2867,7 +2867,7 @@ geneate jsconfig</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.11m out of 46.9m repositories</span>
+                                    <span class="gh">ranked 2.88m out of 45.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2967,7 +2967,7 @@ geneate jsconfig</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 04:03:51 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 05:03:48 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
