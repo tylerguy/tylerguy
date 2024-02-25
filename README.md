@@ -29,11 +29,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0](https://github.com/tylerguy/color-utils/releases/tag/v1.0) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-2. 🚀 Published release [v1.0](https://github.com/tylerguy/color-utils/releases/tag/v1.0) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-3. 🚀 Published release [v1.0](https://github.com/tylerguy/color-utils/releases/tag/v1.0) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-4. 💪 Opened PR [#242](https://github.com/pdinklag/MinecraftStats/pull/242) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
-5. 🗣 Commented on [#233](https://github.com/pdinklag/MinecraftStats/issues/233#issuecomment-1798149364) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+1. 🚀 Published release [v0.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+2. 🚀 Published release [v0.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+3. 🚀 Published release [v0.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+4. 🚀 Published release [v1.0](https://github.com/tylerguy/color-utils/releases/tag/v1.0) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+5. 🚀 Published release [v1.0](https://github.com/tylerguy/color-utils/releases/tag/v1.0) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
 <!--END_SECTION:activity-->
 
 </details>
