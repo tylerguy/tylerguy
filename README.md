@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://fontawesome.com/icons/globe" />[Website/Blog]
+[<img align="left" alt="Website" width="22px" src="globe-solid.svg" />[Website/Blog]
 [<img align="left" alt="Tyler Denman | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/000000/ffffff" />][linkedin]
 
 <br />
