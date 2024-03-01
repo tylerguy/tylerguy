@@ -29,10 +29,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-2. 🚀 Published release [v0.1.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-3. 🚀 Published release [v0.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-4. 🚀 Published release [v0.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+1. 🗣 Commented on [#1](https://github.com/tylerguy/color-utils/issues/1#issuecomment-1973342975) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+2. ❗ Opened issue [#1](https://github.com/tylerguy/color-utils/issues/1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+3. 🚀 Published release [v0.1.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+4. 🚀 Published release [v0.1.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
 5. 🚀 Published release [v0.1](https://github.com/tylerguy/color-utils/releases/tag/v0.1) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
 <!--END_SECTION:activity-->
 
