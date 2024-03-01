@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Tyler's Creative Showcase | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube/000000/ffffff" />][youtube]
+[<img align="left" alt="Website" width="22px" src="https://fontawesome.com/icons/globe?f=classic&s=solid" />[Website/Blog]
 [<img align="left" alt="Tyler Denman | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/000000/ffffff" />][linkedin]
 
 <br />
@@ -45,5 +45,4 @@
 </details>
 
 [website]: https://tylerguy.github.io/Tyler.dev/
-[youtube]: https://www.youtube.com/channel/UCa-jxtlaLU6Jb21kDy2nhxw
 [linkedin]: https://linkedin.com/in/tyler-denman-23b412198/
