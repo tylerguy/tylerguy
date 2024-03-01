@@ -44,5 +44,5 @@
   
 </details>
 
-[Website]: https://tylerguy.github.io/Tyler.dev/
+[Website]: https://tylerdev.space/
 [linkedin]: https://linkedin.com/in/tyler-denman-23b412198/
