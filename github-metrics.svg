@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.04m added, 1.67m removed
+                                    1.57m added, 302k removed
                                 </div>
                             </section>
                             <section>
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 118mb of code in 17115 edited files across 796 commits</small>
+                <small>estimation from 118mb of code in 17116 edited files across 797 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="106.09580012803953" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="106.09580012803953" y="0" width="0.5423131917257759" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="106.6381133197653" y="0" width="0.1194496628815236" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="106.75756298264682" y="0" width="0.03631551085446125" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="106.79387849350128" y="0" width="0.009640373184864083" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="106.80351886668616" y="0" width="0.007328746735380623" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="106.81084761342153" y="0" width="0.0028367829653904524" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="106.81368439638693" y="0" width="353.1863156036131" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="106.09579472073189" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="106.09579472073189" y="0" width="0.542313164086093" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="106.63810788481798" y="0" width="0.11944965679361935" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="106.75755754161159" y="0" width="0.03631550900359497" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="106.79387305061519" y="0" width="0.00964037269353018" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="106.80351342330871" y="0" width="0.007328746361861709" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="106.81084216967058" y="0" width="0.0028367828208101945" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="106.8136789524914" y="0" width="353.1863210475086" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2455,7 +2455,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="375.09999999999997 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="375.2033333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2477,7 +2477,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 4630 times</div>
+                                <div class="text">Repositories have been deployed 4631 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3015,7 +3015,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 2 May 2024, 18:20:36
+                            On 2 May 2024, 18:17:42
                         </div>
                     </section>
                 </div>
@@ -3031,7 +3031,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2c00688b</span>
+                            <span class="code">048cf6af</span>
                             <span class="code">package.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -3043,14 +3043,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">{<br /></span><span class="token prefix unchanged">·</span><span class="token line">"name": "@tylerguy/color-utils",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"description": "A collection of utilities for working with colors in JavaScript",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"version": "0.1.1",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"version": "0.2.0",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"main": "dist/index.ts",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"types": "dist/index.d.ts",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"files": [</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,7 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">{<br /></span><span class="token prefix unchanged">·</span><span class="token line">"name": "@tylerguy/color-utils",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"description": "A collection of utilities for working with colors in JavaScript",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"version": "0.1.1",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"version": "0.2",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"main": "dist/index.ts",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"types": "dist/index.d.ts",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"files": [</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2024, 06:04:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2024, 07:05:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
