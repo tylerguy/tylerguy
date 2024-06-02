@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.30m added, 708k removed
+                                    1.76m added, 700k removed
                                 </div>
                             </section>
                             <section>
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 119mb of code in 17284 edited files across 868 commits</small>
+                <small>estimation from 119mb of code in 17285 edited files across 869 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.66112556187502" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="105.66112556187502" y="0" width="0.7790859172877419" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="106.44021147916277" y="0" width="0.6653930467466533" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="107.10560452590943" y="0" width="0.2989767132046324" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="107.40458123911407" y="0" width="0.27967689663806083" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="107.68425813575212" y="0" width="0.009600876569288938" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="107.69385901232141" y="0" width="0.008881744764001732" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="107.70274075708541" y="0" width="352.2972592429146" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.6611201987841" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="105.6611201987841" y="0" width="0.7790858777433154" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="106.44020607652742" y="0" width="0.6653930129729889" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="107.10559908950042" y="0" width="0.29897669802933224" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="107.40457578752975" y="0" width="0.27967688244237043" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="107.68425266997211" y="0" width="0.009600876081972779" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="107.69385354605409" y="0" width="0.00888174431318688" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="107.70273529036727" y="0" width="352.29726470963277" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2477,7 +2477,7 @@ The PowerSelection script now includes click event listeners for the damage, att
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="451.67 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="451.77333333333337 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2499,7 +2499,7 @@ The PowerSelection script now includes click event listeners for the damage, att
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 5371 times</div>
+                                <div class="text">Repositories have been deployed 5372 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2902,7 +2902,7 @@ The PowerSelection script now includes click event listeners for the damage, att
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.17m out of 204m repositories</span>
+                                    <span class="gh">ranked 3.17m out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -3035,7 +3035,7 @@ The PowerSelection script now includes click event listeners for the damage, att
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2024, 21:04:19 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jun 2024, 22:04:15 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
