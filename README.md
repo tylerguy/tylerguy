@@ -29,11 +29,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2](https://github.com/tylerguy/color-utils/releases/tag/v0.2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-2. 🚀 Published release [v0.2](https://github.com/tylerguy/color-utils/releases/tag/v0.2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+1. 🎉 Merged PR [#3](https://github.com/TerrashiftNET/MinecraftStats/pull/3) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+2. 💪 Opened PR [#3](https://github.com/TerrashiftNET/MinecraftStats/pull/3) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
 3. 🚀 Published release [v0.2](https://github.com/tylerguy/color-utils/releases/tag/v0.2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-4. 🚀 Published release [v1.2](https://github.com/tylerguy/color-utils/releases/tag/v1.2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
-5. 🎉 Merged PR [#2](https://github.com/TerrashiftNET/MinecraftStats/pull/2) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+4. 🚀 Published release [v0.2](https://github.com/tylerguy/color-utils/releases/tag/v0.2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+5. 🚀 Published release [v0.2](https://github.com/tylerguy/color-utils/releases/tag/v0.2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
 <!--END_SECTION:activity-->
 
 </details>
