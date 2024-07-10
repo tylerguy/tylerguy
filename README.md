@@ -29,11 +29,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-2. 💪 Opened PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-3. 🎉 Merged PR [#3](https://github.com/TerrashiftNET/MinecraftStats/pull/3) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-4. 💪 Opened PR [#3](https://github.com/TerrashiftNET/MinecraftStats/pull/3) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-5. 🚀 Published release [v0.2](https://github.com/tylerguy/color-utils/releases/tag/v0.2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+1. 🗣 Commented on [#242](https://github.com/pdinklag/MinecraftStats/pull/242#issuecomment-2219733034) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+2. ❌ Closed PR [#242](https://github.com/pdinklag/MinecraftStats/pull/242) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+3. 🎉 Merged PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+4. 💪 Opened PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+5. 🎉 Merged PR [#3](https://github.com/TerrashiftNET/MinecraftStats/pull/3) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
 <!--END_SECTION:activity-->
 
 </details>
