@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/000000/ffffff" />
+<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/000000/ffffff" /> -->
 <img align="left" alt="HTML5" width="26px" src="https://cdn.simpleicons.org/html5/000000/ffffff" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.simpleicons.org/css3/000000/ffffff" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/000000/ffffff" />
