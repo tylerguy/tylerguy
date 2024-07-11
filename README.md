@@ -29,11 +29,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#242](https://github.com/pdinklag/MinecraftStats/pull/242#issuecomment-2219733034) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
-2. ❌ Closed PR [#242](https://github.com/pdinklag/MinecraftStats/pull/242) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
-3. 🎉 Merged PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-4. 💪 Opened PR [#4](https://github.com/TerrashiftNET/MinecraftStats/pull/4) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-5. 🎉 Merged PR [#3](https://github.com/TerrashiftNET/MinecraftStats/pull/3) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+1. 💪 Opened PR [#5](https://github.com/TerrashiftNET/MinecraftStats/pull/5) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+2. ❌ Closed PR [#252](https://github.com/pdinklag/MinecraftStats/pull/252) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+3. 💪 Opened PR [#252](https://github.com/pdinklag/MinecraftStats/pull/252) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+4. 🗣 Commented on [#242](https://github.com/pdinklag/MinecraftStats/pull/242#issuecomment-2219733034) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+5. ❌ Closed PR [#242](https://github.com/pdinklag/MinecraftStats/pull/242) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
 <!--END_SECTION:activity-->
 
 </details>
