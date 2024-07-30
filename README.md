@@ -29,11 +29,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
-2. 💪 Opened PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
-3. 💪 Opened PR [#2](https://github.com/tylerguy/TylerDev/pull/2) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
-4. 💪 Opened PR [#5](https://github.com/TerrashiftNET/MinecraftStats/pull/5) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-5. ❌ Closed PR [#252](https://github.com/pdinklag/MinecraftStats/pull/252) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+1. ❌ Closed PR [#4](https://github.com/tylerguy/TylerDev/pull/4) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+2. 💪 Opened PR [#4](https://github.com/tylerguy/TylerDev/pull/4) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+3. 🎉 Merged PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+4. 💪 Opened PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+5. 💪 Opened PR [#2](https://github.com/tylerguy/TylerDev/pull/2) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
 <!--END_SECTION:activity-->
 
 </details>
