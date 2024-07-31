@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.58m added, 170k removed
+                                    1.67m added, 235k removed
                                 </div>
                             </section>
                             <section>
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 119mb of code in 17617 edited files across 972 commits</small>
+                <small>estimation from 130mb of code in 17641 edited files across 974 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.75231633115109" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="104.75231633115109" y="0" width="0.7732829947260482" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="105.52559932587714" y="0" width="0.6913219323094602" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="106.21692125818659" y="0" width="0.3551862082425142" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="106.5721074664291" y="0" width="0.2972708845398754" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="106.86937835096899" y="0" width="0.0100506928663812" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="106.87942904383536" y="0" width="0.009518297804366534" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="106.88894734163972" y="0" width="353.1110526583602" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="97.12452680816946" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="97.12452680816946" y="0" width="0.7169745508456798" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="97.84150135901514" y="0" width="0.640981678490086" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="98.48248303750523" y="0" width="0.3293224781329573" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="98.8118055156382" y="0" width="0.27562439672940553" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="99.0874299123676" y="0" width="0.009318827715996066" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="99.0967487400836" y="0" width="0.008825200269040956" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="99.10557394035263" y="0" width="360.89442605964734" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2462,7 +2462,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="611.01 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="611.1133333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2484,7 +2484,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 6913 times</div>
+                                <div class="text">Repositories have been deployed 6914 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3039,7 +3039,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">6187ce7d</span>
-                            <span class="code">package.json</span>
+                            <span class="code">pnpm-lock.yaml</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3050,14 +3050,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -20,7 +20,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"@astrojs/sitemap": "^3.1.4",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"@types/react": "^18.2.37",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"@types/react-dom": "^18.2.15",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"@vercel/speed-insights": "^1.0.5",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"@vercel/speed-insights": "^1.0.12",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"astro": "^4.11.5",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"astro-compress": "^2.2.3",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"eslint": "^9.2.0",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -33,7 +33,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  specifier: ^18.2.15<br /></span><span class="token prefix unchanged">·</span><span class="token line">  version: 18.3.0<br /></span><span class="token prefix unchanged">·</span><span class="token line">'@vercel/speed-insights':<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  specifier: ^1.0.5<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  specifier: ^1.0.12<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  version: 1.0.12(react@18.3.1)<br /></span><span class="token prefix unchanged">·</span><span class="token line">astro:<br /></span><span class="token prefix unchanged">·</span><span class="token line">  specifier: ^4.11.5</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2024, 09:05:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jul 2024, 10:05:03 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
