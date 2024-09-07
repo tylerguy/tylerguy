@@ -29,11 +29,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/tylerguy/TylerDev/pull/4) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
-2. 💪 Opened PR [#4](https://github.com/tylerguy/TylerDev/pull/4) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
-3. 🎉 Merged PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
-4. 💪 Opened PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
-5. 💪 Opened PR [#2](https://github.com/tylerguy/TylerDev/pull/2) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+1. 💪 Opened PR [#1](https://github.com/samualtnorman/solid-syntax-highlight-text-editor/pull/1) in [samualtnorman/solid-syntax-highlight-text-editor](https://github.com/samualtnorman/solid-syntax-highlight-text-editor)
+2. ❌ Closed PR [#4](https://github.com/tylerguy/TylerDev/pull/4) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+3. 💪 Opened PR [#4](https://github.com/tylerguy/TylerDev/pull/4) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+4. 🎉 Merged PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+5. 💪 Opened PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
 <!--END_SECTION:activity-->
 
 </details>
