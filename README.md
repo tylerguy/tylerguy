@@ -1,6 +1,6 @@
 ### Hi there, I'm Tyler 👋 
 
-## Former Game Design Student, Graphic Designer and Frontend Designer
+## Game Designer, Graphic Designer and Frontend Designer
 
 - Currently learning React/Vite + Express, generally learning as I go making whatever I can
 
