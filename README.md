@@ -29,8 +29,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/samualtnorman/solid-syntax-highlight-text-editor/pull/1) in [samualtnorman/solid-syntax-highlight-text-editor](https://github.com/samualtnorman/solid-syntax-highlight-text-editor)
-2. ❌ Closed PR [#4](https://github.com/tylerguy/TylerDev/pull/4) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
+1. 🎉 Merged PR [#2](https://github.com/tylerguy/color-utils/pull/2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
+2. 💪 Opened PR [#1](https://github.com/samualtnorman/solid-syntax-highlight-text-editor/pull/1) in [samualtnorman/solid-syntax-highlight-text-editor](https://github.com/samualtnorman/solid-syntax-highlight-text-editor)
 3. 💪 Opened PR [#4](https://github.com/tylerguy/TylerDev/pull/4) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
 4. 🎉 Merged PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
 5. 💪 Opened PR [#3](https://github.com/tylerguy/TylerDev/pull/3) in [tylerguy/TylerDev](https://github.com/tylerguy/TylerDev)
