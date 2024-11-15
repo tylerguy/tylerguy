@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    853k added, 208k removed
+                                    1.34m added, 230k removed
                                 </div>
                             </section>
                             <section>
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 130mb of code in 17710 edited files across 1005 commits</small>
+                <small>estimation from 120mb of code in 17686 edited files across 1003 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="97.04774318852714" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="97.04774318852714" y="0" width="0.7196030523979491" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="97.76734624092508" y="0" width="0.6404749383800817" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="98.40782117930516" y="0" width="0.3584547741906483" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="98.7662759534958" y="0" width="0.2754064966835766" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="99.04168245017938" y="0" width="0.0360320497514285" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="99.0777144999308" y="0" width="0.012661184485920357" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="99.09037568441673" y="0" width="360.9096243155833" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.66300407594619" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="104.66300407594619" y="0" width="0.7760697439391215" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="105.43907381988531" y="0" width="0.6907325083901648" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="106.12980632827548" y="0" width="0.38658244137915626" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="106.51638876965464" y="0" width="0.2970174301625891" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="106.81340619981724" y="0" width="0.03885945665601306" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="106.85226565647325" y="0" width="0.013654697779853656" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="106.8659203542531" y="0" width="353.1340796457469" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2418,7 +2418,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="878.6433333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="878.7466666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2440,7 +2440,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 9503 times</div>
+                                <div class="text">Repositories have been deployed 9504 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2843,7 +2843,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.36m out of 224m repositories</span>
+                                    <span class="gh">ranked 3.36m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2976,7 +2976,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2024, 15:04:51 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2024, 16:05:40 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
