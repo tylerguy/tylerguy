@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    682k added, 176k removed
+                                    1.55m added, 186k removed
                                 </div>
                             </section>
                             <section>
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 120mb of code in 17741 edited files across 1034 commits</small>
+                <small>estimation from 130mb of code in 17765 edited files across 1036 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.41120036554443" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="104.41120036554443" y="0" width="0.7748163563075098" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="105.18601672185194" y="0" width="0.7057288606304187" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="105.89174558248236" y="0" width="0.4069295948290109" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="106.29867517731137" y="0" width="0.29630285014810115" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="106.59497802745948" y="0" width="0.03876596654977571" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="106.63374399400925" y="0" width="0.012403632672990966" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="106.64614762668225" y="0" width="353.35385237331775" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="96.8312109108919" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="96.8312109108919" y="0" width="0.7185666456486776" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="97.54977755654058" y="0" width="0.654494727676347" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="98.20427228421691" y="0" width="0.37738753395057073" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="98.5816598181675" y="0" width="0.27479201154416855" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="98.85645182971166" y="0" width="0.03595165528223011" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="98.89240348499389" y="0" width="0.01150316026647239" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="98.90390664526036" y="0" width="361.09609335473965" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2515,7 +2515,7 @@ Simple Lane Swapping Script</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1010.7033333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1010.8066666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2537,7 +2537,7 @@ Simple Lane Swapping Script</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 10781 times</div>
+                                <div class="text">Repositories have been deployed 10782 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2940,7 +2940,7 @@ Simple Lane Swapping Script</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.43m out of 225m repositories</span>
+                                    <span class="gh">ranked 3.43m out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -3073,7 +3073,7 @@ Simple Lane Swapping Script</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2025, 17:04:44 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2025, 18:05:55 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
