@@ -7,7 +7,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="./globe-solid.svg" />][Website]
-[<img align="left" alt="Tyler Denman | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/000000/ffffff" />][linkedin]
+<!-- [<img align="left" alt="Tyler Denman | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/000000/ffffff" />][linkedin] -->
 
 <br />
 
