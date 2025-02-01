@@ -29,11 +29,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-2. ❌ Reopened PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-3. ❌ Closed PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-4. 🔒 Closed issue [#13](https://github.com/TerrashiftNET/MinecraftStats/issues/13) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
-5. 🔒 Closed issue [#12](https://github.com/TerrashiftNET/MinecraftStats/issues/12) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+1. 🗣 Commented on [#262](https://github.com/pdinklag/MinecraftStats/issues/262#issuecomment-2629063781) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+2. ❌ Closed PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+3. ❌ Reopened PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+4. ❌ Closed PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
+5. 🔒 Closed issue [#13](https://github.com/TerrashiftNET/MinecraftStats/issues/13) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
 <!--END_SECTION:activity-->
 
 </details>
