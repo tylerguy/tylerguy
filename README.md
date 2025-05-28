@@ -29,7 +29,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/pdinklag/MinecraftStats/issues/262#issuecomment-2629063781) in [pdinklag/MinecraftStats](https://github.com/pdinklag/MinecraftStats)
+1. 🚀 Published release [v0.1.2](https://github.com/tylerguy/color-utils/releases/tag/v0.1.2) in [tylerguy/color-utils](https://github.com/tylerguy/color-utils)
 2. ❌ Closed PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
 3. ❌ Reopened PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
 4. ❌ Closed PR [#6](https://github.com/TerrashiftNET/MinecraftStats/pull/6) in [TerrashiftNET/MinecraftStats](https://github.com/TerrashiftNET/MinecraftStats)
