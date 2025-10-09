@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    355k added, 48.7k removed
+                                    765k added, 97.4k removed
                                 </div>
                             </section>
                             <section>
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 120mb of code in 17215 edited files across 1188 commits</small>
+                <small>estimation from 131mb of code in 17240 edited files across 1191 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="103.98911192813867" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="103.98911192813867" y="0" width="0.7989003986959898" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="104.78801232683466" y="0" width="0.7541511670650404" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="105.54216349389971" y="0" width="0.5986433360394225" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="106.14080682993914" y="0" width="0.29585873836643817" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="106.43666556830557" y="0" width="0.03860925284292977" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="106.4752748211485" y="0" width="0.018254487833843237" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="106.49352930898235" y="0" width="353.5064706910177" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="96.46807196753676" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="96.46807196753676" y="0" width="0.7411197165483672" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="97.20919168408513" y="0" width="0.6996069849034467" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="97.90879866898858" y="0" width="0.5553462987917931" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="98.46414496778036" y="0" width="0.274460677043586" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="98.73860564482395" y="0" width="0.03581682844294715" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="98.7744224732669" y="0" width="0.016934227184309737" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="98.7913567004512" y="0" width="361.2086432995488" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2488,7 +2488,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 8 Oct 2025, 10:04:32
+                            On 8 Oct 2025, 10:06:04
                         </div>
                     </section>
                 </div>
@@ -2504,7 +2504,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">6b13c415</span>
+                            <span class="code">4adcef0b</span>
                             <span class="code">src/pages/index.astro</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -2516,14 +2516,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -49,7 +49,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">        &gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">      &lt;/li&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">      &lt;li&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">        Currently partaking in a <br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">        Currently partaking in a creative gaming bootcamp delivered by YTKO<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &lt;/ul&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/div&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -29,7 +29,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;/li&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;li&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">  Game Designer for &lt;a<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    href="https://thunderblossomstudios.itch.io/courier-clash"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    href="https://tbgamestudio.itch.io/courier-clash"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &gt;Courier Clash&lt;/a<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &gt;, a vehicle combat game set within a toy/childlike environment. My<br /></span><span class="token prefix unchanged">·</span><span class="token line">  main responsibilities were to generate ideas for the game concept and</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2025, 13:08:36 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2025, 14:13:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
